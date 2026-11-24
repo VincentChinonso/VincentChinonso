@@ -24,4 +24,4 @@ Feel free to explore my pinned repositories to see what I've built, and visit my
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vincent-chinonso-9ab1821a2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vincent-chinonso-9ab1821a2/)
