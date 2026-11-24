@@ -22,6 +22,6 @@ Feel free to explore my pinned repositories to see what I've built, and visit my
 - 🔐 Cloud Security
 - 🛡️ Monitoring & Observability
 
-## Connect with Me
+### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vincent-chinonso-9ab1821a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chinonso-9ab1821a2/)
